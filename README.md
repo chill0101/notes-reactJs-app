@@ -1,6 +1,6 @@
-## App con React JS + Redux + Firebase 🧩
+# App con React JS + Redux + Firebase 🧩
 
-# Descripción 💡
+## Descripción sencilla💡
 Aplicación SPA de notas con autenticación y almacenamiento en la nube.
 
 ## Tecnologías 🛠️
@@ -21,9 +21,9 @@ Aplicación SPA de notas con autenticación y almacenamiento en la nube.
 - App Router
 
 
-## Visualizar 🔎
-- [Abrir en Netlify 🔗](https://reactjs-simple-notes.netlify.app/)
+# Visualizar 🔎
+- <a href="https://reactjs-simple-notes.netlify.app/" target="_blank">Abrir en Netlify 🔗</a>
 
 
 
-# Muchas gracias por tu tiempo! 💛
+### Muchas gracias por tu tiempo! 💛
