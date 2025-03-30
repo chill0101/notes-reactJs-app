@@ -17,7 +17,7 @@ export const NothingSelectedView = () => {
         <Grid item xs={ 12 }>
             <EditNoteOutlined sx={{ fontSize: 100, color: 'white' }} />
         </Grid>
-        <Grid item xs={ 12 }>
+        <Grid item xs={ 12 } sx={{padding: 4} }>
             <Typography color="white" variant='h5'>Selecciona una nota o presiona + para crearla</Typography>
         </Grid>
     </Grid>
